@@ -12,34 +12,38 @@ I'm a graduate in Software Engineering 🎓 from ESPRIT. I'm a passionate learne
 
 Joined Github **3** years ago.
 
-Since then I pushed **1823**+ commits, opened **223**+ issues, submitted **246**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
+<!-- Since then I pushed **1823**+ commits, opened **223**+ issues, submitted **246**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories. -->
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<!-- <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+<!-- [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 🛠 &nbsp; I’m currently working with NodeJS, NestJS, Spring Boot, React and NextJS <br /> Typescript, Javascript, MongoDB, etc.
+- 🚀 &nbsp; I’m currently practicing Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/brahimabdelli).
+- 💬 &nbsp; Ask me about anything on my Linkedin Page [Linkedin](www.linkedin.com/in/brahimabdelli) ! I am happy to help.
+<!-- - 
+ 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.-->
+<!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
+- 📫 &nbsp; How to reach me: brahim.abdelli994@gmail.com.
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+<!-- - 🍕 &nbsp; Hackathons, meetups & tech events. -->
 
 ### Languages and Tools:
 
+
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -55,10 +59,10 @@ Like My Work?
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
+<!-- 
+### Projects and Dev Stuffs: -->
 
-### Projects and Dev Stuffs:
-
-<details>	
+<!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
@@ -124,7 +128,7 @@ Like My Work?
     </tbody>
   </table>
   <br />
-</details>
+</details> -->
  
 <!-- <details>	
   <br />
