@@ -42,8 +42,20 @@ Like My Work?
 
 ### Languages and Tools:
 
+### Backend:
 
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node"></code>
+<code><img height="27" src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="node"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nest"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="spring"></code>
+
+### Frontend:
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="next"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="react"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nest"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="spring"></code>
+
+
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
