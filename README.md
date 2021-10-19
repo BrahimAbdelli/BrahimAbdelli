@@ -43,7 +43,6 @@ Like My Work?
 ### Languages and Tools:
 
 ### Backend:
-
 <code><img height="27" src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="node"></code>
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nest"></code>
 <code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="spring"></code>
@@ -51,23 +50,55 @@ Like My Work?
 ### Frontend:
 <code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="next"></code>
 <code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="react"></code>
-<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nest"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="spring"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="tailwind"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="bootstrap"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="styled"></code>
 
+### Database:
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="mongodb"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="typeorm"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="redis"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="mysql"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="postgresql"></code>
 
+### Database:
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="mongodb"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="typeorm"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="redis"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="mysql"></code>
+<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="postgresql"></code>
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+### Devops:
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="maven"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="nexus"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="sonar"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="jenkins"></code>
 
+### Deployment:
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="heroku"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="vercel"></code>
+
+### VCS and Cloud Storage :
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="vcs"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="firebase"></code>
+
+### Others :
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="puppeteer"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="socket"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="bull"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="jenkins"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="mailjet"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="jest"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="googlemaps"></code>
+<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="swagger"></code>
+
+### Optimization & SEO :
+- 💻 &nbsp; Source Map Explorer.
+- 💻 &nbsp; Lazy Loading.
+- 💻 &nbsp; Image Optimization.
+- 💻 &nbsp; Purge CSS.
+- 💻 &nbsp; Chunk Reduction.
+- 💻 &nbsp; React Helmet.
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
