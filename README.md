@@ -48,49 +48,42 @@ Like My Work?
 <code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="spring"></code>
 
 ### Frontend:
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="next"></code>
+<code><img height="27" src="https://charlestonjs.com/content/images/size/w2000/2021/05/Image-202018-10-22-20at-2010.51.34-20AM.png" alt="next"></code>
 <code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="react"></code>
-<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="tailwind"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="bootstrap"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="styled"></code>
+<code><img height="27" src="https://www.pnglogos.com/images/technology/redux-logo.png" alt="redux"></code>
+<code><img height="27" src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="tailwind"></code>
+<code><img height="27" src="https://brandslogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap"></code>
+<code><img height="27" src="https://styled-components.com/logo.png" alt="styled"></code>
 
 ### Database:
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="mongodb"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="typeorm"></code>
-<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="redis"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="mysql"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="postgresql"></code>
-
-### Database:
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="mongodb"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="typeorm"></code>
-<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="redis"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="mysql"></code>
-<code><img height="27" src="https://www.developpez.com/public/images/news/spting-boot.png" alt="postgresql"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongodb"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" alt="typeorm"></code>
+<code><img height="27" src="https://ubunlog.com/wp-content/uploads/2018/10/Redis.png.webp" alt="redis"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_vertical_logo_icon_168900.png" alt="postgresql"></code>
 
 ### Devops:
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="maven"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="nexus"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="sonar"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="jenkins"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven"></code>
+<code><img height="27" src="https://brandeps.com/logo-download/N/Nexus-logo-vector-01.svg" alt="nexus"></code>
+<code><img height="27" src="https://www.sonarqube.org/logos/index/sonarqube-logo@2x.png" alt="sonar"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_167854.png" alt="jenkins"></code>
 
 ### Deployment:
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="heroku"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="vercel"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png" alt="heroku"></code>
+<code><img height="27" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="vercel"></code>
 
 ### VCS and Cloud Storage :
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="vcs"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="firebase"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="github"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_168209.png" alt="firebase"></code>
 
 ### Others :
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="puppeteer"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="socket"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="bull"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="jenkins"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="mailjet"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="jest"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="googlemaps"></code>
-<code><img height="27" src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="swagger"></code>
+<code><img height="27" src="https://www.nicepng.com/png/detail/141-1415557_puppeteer-logo-google-puppeteer.png" alt="puppeteer"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/socketio_logo_icon_168806.png" alt="socket"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/rauny-henrique/bull/HEAD/support/logo@2x.png" alt="bull"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mailjet_logo_icon_169002.png" alt="mailjet"></code>
+<code><img height="27" src="https://www.cloudsavvyit.com/p/uploads/2020/02/f750643b.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="jest"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_maps_icon_130921.png" alt="googlemaps"></code>
+<code><img height="27" src="https://www.scottbrady91.com/img/logos/swagger-banner.png" alt="swagger"></code>
 
 ### Optimization & SEO :
 - 💻 &nbsp; Source Map Explorer.
